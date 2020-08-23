@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCMConsole", "SCMConsole\SCMConsole.csproj", "{6E9A0E36-07F8-452B-89D7-E9068DDC8ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9A0E36-07F8-452B-89D7-E9068DDC8ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9A0E36-07F8-452B-89D7-E9068DDC8ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9A0E36-07F8-452B-89D7-E9068DDC8ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9A0E36-07F8-452B-89D7-E9068DDC8ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29509FCA-D172-4D54-ACD2-9601DB16750B}
+	EndGlobalSection
+EndGlobal
